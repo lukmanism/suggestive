@@ -11,7 +11,7 @@ function pie(data, target) {
 		onAnimationComplete : null
 	}
 	new Chart(document.getElementById(target).getContext("2d")).Pie(data, options);	
-	$('#'+target).attr("width","100").attr("height","100"); //forced size
+	$('#'+target).attr("width","160").attr("height","160"); //forced size
 }
 
 

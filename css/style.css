@@ -44,7 +44,7 @@ h1.title {
 	clear: both;
     float: left;
     padding: 0 24px 40px;
-    width: 688px;
+    width: 1200px;
 }
 #linechart {
 }
@@ -57,7 +57,7 @@ h1.title {
 .slider_inner {
 	background-color: #ffffff;
 	height: 42px;
-	width: 688px;
+	width: 1200px;
 	position: static;
 }
 .slider_inner.fixed {
@@ -234,7 +234,7 @@ h1.title {
     display: inline-block;
     height: 136px;
     vertical-align: top;
-    width: 688px;
+    width: 1200px;
 }
 
 .bar_summary {
@@ -429,6 +429,7 @@ h1.title {
 	margin-right: auto;
 	margin-left: auto;
 	float: none;
+	width: 60%;
 }
 
 .legend dl {
